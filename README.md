@@ -1,4 +1,4 @@
-<h1 style="color:blue">WayTo Portfolio</h1>
+<h1 align="center">WayTo Portfolio</h1>
 
 - **👋 Hi, I’m @LONEWOLF-tech**
 - **🌱 I’m currently learning ...**
