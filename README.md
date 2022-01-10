@@ -31,9 +31,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <p>
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="visual-studio-code" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="android-studio" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="java-eclipse" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="visual-studio-code" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="android-studio" width="40" height="40"/></a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="java-eclipse" width="40" height="40"/></a>
 </p>
 <br/>
 
