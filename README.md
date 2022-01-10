@@ -40,7 +40,7 @@
 ## 👨‍💻🤝Connect with me:
 <p align="left">
 
-<a href = "rajanpratap911@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="gmail" width="40" height="40"/></a>
+<a href = "mailto:rajanpratap911@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="gmail" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/rajan-pratap-singh-0035b01a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 <a href = "https://github.com/LONEWOLF-tech"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png" alt="github" width="40" height="40"/></a>
 <a href = "https://www.instagram.com/_rajanpratap/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" width="40" height="40"/></a>
