@@ -18,6 +18,7 @@
    <a href="https://www.learn-cpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++ programming" width="48" height="48"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java programming" width="48" height="48"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring-boot framework" width="48" height="48"/> </a> 
+    <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate framework" width="48" height="48"/> </a> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart-programming" width="48" height="48"/></a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" width="48" height="48"/> </a> 
@@ -46,6 +47,7 @@
 <a href = "https://www.linkedin.com/in/rajan-pratap-singh-0035b01a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" width="48" height="48"/></a>
 <a href = "https://github.com/LONEWOLF-tech"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png" alt="github" width="48" height="48"/></a>
 <a href = "https://www.instagram.com/_rajanpratap/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" width="48" height="48"/></a>
+<a href = "https://waytoportfolio.netlify.app/">  <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="instagram" width="48" height="48"/></a>
 
 </p>
 
