@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://waytoportfolio.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="200" height="200"/> </a><br/> WayTo Portfolio </h1>
+<h1 align="center"><a href="https://waytoportfolio.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="200" height="200"/></a><br/>WayTo Portfolio</h1>
 
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m Rajan Pratap Singh ---@LONEWOLF-tech</h2>
