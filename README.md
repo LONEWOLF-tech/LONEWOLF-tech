@@ -19,6 +19,7 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java programming" width="48" height="48"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring-boot framework" width="48" height="48"/> </a> 
     <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate framework" width="48" height="48"/> </a> 
+      <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="48" height="48"/> </a> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart-programming" width="48" height="48"/></a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" width="48" height="48"/> </a> 
@@ -37,6 +38,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="visual-studio-code" width="48" height="48"/></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="android-studio" width="48" height="48"/></a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="java-eclipse" width="48" height="48"/></a>
+<a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/unity.png" alt="unity" width="48" height="48"/></a>
 </p>
 <br/>
 
