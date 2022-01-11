@@ -27,6 +27,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs framework" width="48" height="48"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python programming" width="48" height="48"/> </a>   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql database" width="48" height="48"/> </a>
+   <a style="padding-right:8px;" href="https://www.oracle.com/in/index.html" target="_blank"> <img src="https://img.icons8.com/color/50/000000/oracle-logo.png" alt="mysql database" width="48" height="48"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git version-control" width="48" height="48"/> </a> 
