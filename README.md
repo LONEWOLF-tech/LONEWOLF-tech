@@ -1,5 +1,9 @@
 
-<h1 align="center"><a href="https://rajanpratap.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/53988654/148930739-4c9079ae-f8d0-4da4-89b7-0709bbf1f536.png" alt="wayto_portfolio" width="150" height="170"/></a><br/>WayTo Portfolio<a href="https://rajanpratap.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="22" height="22"/></a></h1>
+<h1 align="center">
+<!--     <a href="https://rajanpratap.netlify.app/" target="_blank" rel="noopener noreferrer">  -->
+    <img src="https://user-images.githubusercontent.com/53988654/148930739-4c9079ae-f8d0-4da4-89b7-0709bbf1f536.png" alt="wayto_portfolio" width="150" height="170"/></a><br/>WayTo Portfolio
+<!--     <a href="https://rajanpratap.netlify.app/" target="_blank"> -->
+        <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="22" height="22"/></a></h1>
 
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m Rajan Pratap Singh ---@LONEWOLF-tech</h2>
@@ -49,7 +53,8 @@
 <a href = "https://www.linkedin.com/in/rajanpratap/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" width="48" height="48"/></a>
 <a href = "https://github.com/LONEWOLF-tech" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png" alt="github" width="48" height="48"/></a>
 <a href = "https://www.instagram.com/_rajanpratap/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" width="48" height="48"/></a>
-<a href = "https://rajanpratap.netlify.app/" target="_blank" rel="noopener noreferrer">  <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="instagram" width="48" height="48"/></a>
+
+<!-- <a href = "https://rajanpratap.netlify.app/" target="_blank" rel="noopener noreferrer">  <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="website" width="48" height="48"/></a>-->
 <a href = "https://drive.google.com/file/d/1Y-ko8M5EQS3lP-djs05olTImY3cyVne-/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909__340.png" alt="resume" width="48" height="48"/></a>
     
 
