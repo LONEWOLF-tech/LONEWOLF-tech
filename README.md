@@ -1,9 +1,12 @@
 
 <h1 align="center">
 <!--     <a href="https://rajanpratap.netlify.app/" target="_blank" rel="noopener noreferrer">  -->
-    <img src="https://user-images.githubusercontent.com/53988654/148930739-4c9079ae-f8d0-4da4-89b7-0709bbf1f536.png" alt="wayto_portfolio" width="150" height="170"/></a><br/>WayTo Portfolio
+<!--     <img src="https://user-images.githubusercontent.com/53988654/148930739-4c9079ae-f8d0-4da4-89b7-0709bbf1f536.png" alt="wayto_portfolio" width="150" height="170"/></a><br/>WayTo Portfolio -->
 <!--     <a href="https://rajanpratap.netlify.app/" target="_blank"> -->
-        <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="22" height="22"/></a></h1>
+<!--         <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="22" height="22"/></a> -->
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53988654/404979207-6e4b9fd2-c46d-4826-a62b-6e3c139b6c5b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250120T184304Z&X-Amz-Expires=300&X-Amz-Signature=1431426b5027b3f3c31f1f5f7a84887ec9c81140e1deb798199c360cb5781585&X-Amz-SignedHeaders=host"/>
+</h1>
 
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m Rajan Pratap Singh ---@LONEWOLF-tech</h2>
