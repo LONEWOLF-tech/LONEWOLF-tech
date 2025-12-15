@@ -4,7 +4,7 @@
 <!--     <img src="https://user-images.githubusercontent.com/53988654/148930739-4c9079ae-f8d0-4da4-89b7-0709bbf1f536.png" alt="wayto_portfolio" width="150" height="170"/></a><br/>WayTo Portfolio -->
 <!--     <a href="https://rajanpratap.netlify.app/" target="_blank"> -->
 <!--         <img src="https://user-images.githubusercontent.com/53988654/148902997-d228ae57-b35d-4364-a201-d70bb295f091.png" alt="wayto_portfolio" width="22" height="22"/></a> -->
-
+<img width="570" height="570" alt="logo" src="https://github.com/user-attachments/assets/fd60b15c-9f9b-4fc5-9cd1-7e89db5dac1c" />
 </h1>
 
 
@@ -69,3 +69,4 @@
 LONEWOLF-tech/LONEWOLF-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
