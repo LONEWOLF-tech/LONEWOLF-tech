@@ -7,8 +7,6 @@
 <!-- <img width="170" height="170" alt="logo" src="https://github.com/user-attachments/assets/fd60b15c-9f9b-4fc5-9cd1-7e89db5dac1c" /> -->
     <img width="192" height="216.6" alt="Card" src="https://github.com/user-attachments/assets/7b2eb10d-7f1e-480f-8281-ca3a86c28dd8" />
 </h1>
-
-
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m Rajan Pratap Singh ---@LONEWOLF-tech</h2>
 <br/>
 
@@ -22,7 +20,6 @@
 
 <p align="left"> 
     <a href="https://www.learn-c.org/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming" width="48" height="48"/> </a>
-
    <a href="https://www.learn-cpp.org/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++ programming" width="48" height="48"/></a>
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java programming" width="48" height="48"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring-boot framework" width="48" height="48"/> </a> 
